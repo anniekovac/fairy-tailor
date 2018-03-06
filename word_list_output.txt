@@ -1,0 +1,2298 @@
+
+There
+    was, 1
+    they, 1
+was
+    to, 5
+    not, 4
+    so, 2
+    going, 2
+    a, 2
+    once, 1
+    impossible, 1
+    shut, 1
+    obliged, 1
+    as, 1
+    and, 1
+    very, 1
+    striking, 1
+    passing, 1
+    willing, 1
+    lamenting, 1
+    angry, 1
+    riding, 1
+    shocked, 1
+    quite, 1
+    now, 1
+    opened, 1
+    her, 1
+    celebrated, 1
+    over, 1
+once
+    a, 1
+    when, 1
+a
+    beautiful, 3
+    year, 3
+    little, 2
+    ravine, 2
+    loaf, 2
+    piece, 2
+    sin, 2
+    shame, 2
+    King, 1
+    dwarf, 1
+    step, 1
+    fountain, 1
+    large, 1
+    chamber, 1
+    room, 1
+    quarter, 1
+    fright, 1
+    cup, 1
+    cupful, 1
+    great, 1
+    land, 1
+    ship, 1
+    very, 1
+    single, 1
+    gift, 1
+    time, 1
+    stone, 1
+    road, 1
+King
+    was, 2
+    who, 1
+    and, 1
+    the, 1
+    consented, 1
+    waited, 1
+    would, 1
+    already, 1
+    in, 1
+    has, 1
+    for, 1
+    then, 1
+    how, 1
+    wished, 1
+who
+    had, 2
+    were, 1
+    inquired, 1
+    called, 1
+    stopped, 1
+    rejoiced, 1
+    was, 1
+    wished, 1
+had
+    brought, 2
+    put, 2
+    an, 1
+    three, 1
+    ridden, 1
+    grown, 1
+    wished, 1
+    taken, 1
+    said, 1
+    appeased, 1
+    delivered, 1
+    gone, 1
+    found, 1
+    rescued, 1
+    now, 1
+    he, 1
+    scarcely, 1
+    the, 1
+    plotted, 1
+    sentence, 1
+    to, 1
+    slain, 1
+    happened, 1
+    it, 1
+    a, 1
+    entirely, 1
+    forgiven, 1
+    betrayed, 1
+    nevertheless, 1
+an
+    illness, 1
+    old, 1
+    evil, 1
+    explanation, 1
+    enchanted, 1
+    iron, 1
+    end, 1
+illness
+    and, 1
+and
+    the, 11
+    said, 10
+    when, 8
+    he, 8
+    had, 6
+    told, 5
+    rode, 4
+    that, 3
+    at, 3
+    thought, 3
+    a, 3
+    his, 3
+    was, 3
+    went, 2
+    could, 2
+    not, 2
+    should, 2
+    then, 2
+    famine, 2
+    be, 2
+    no, 1
+    wept, 1
+    begged, 1
+    shall, 1
+    tell, 1
+    two, 1
+    it, 1
+    thou, 1
+    set, 1
+    came, 1
+    splendid, 1
+    draw, 1
+    as, 1
+    fell, 1
+    hastened, 1
+    again, 1
+    have, 1
+    chanced, 1
+    gave, 1
+    satisfied, 1
+    peace, 1
+    each, 1
+    after, 1
+    sailed, 1
+    plotted, 1
+    took, 1
+    accused, 1
+    handed, 1
+    became, 1
+    healthy, 1
+    we, 1
+    fetch, 1
+    if, 1
+    yet, 1
+    precious, 1
+    maintained, 1
+    who, 1
+    golden, 1
+    whoever, 1
+    give, 1
+    thus, 1
+    saw, 1
+    turned, 1
+    with, 1
+    wished, 1
+    lord, 1
+    their, 1
+    how, 1
+    never, 1
+no
+    one, 1
+    evil, 1
+one
+    and, 2
+    believed, 1
+    more, 1
+    of, 1
+    foot, 1
+believed
+    that, 1
+that
+    he, 11
+    they, 4
+    is, 3
+    his, 3
+    the, 2
+    their, 1
+    alone, 1
+    if, 1
+    it, 1
+    our, 1
+    you, 1
+    indeed, 1
+    I, 1
+    whosoever, 1
+    and, 1
+he
+    was, 11
+    had, 7
+    would, 5
+    came, 4
+    rode, 3
+    will, 2
+    set, 2
+    arrived, 2
+    entered, 2
+    felt, 2
+    were, 2
+    thought, 2
+    drinks, 1
+    begged, 1
+    could, 1
+    yielded, 1
+    too, 1
+    like, 1
+    met, 1
+    stopped, 1
+    drew, 1
+    carried, 1
+    went, 1
+    lay, 1
+    awoke, 1
+    said, 1
+    warned, 1
+    rejoiced, 1
+    must, 1
+    fed, 1
+    slew, 1
+    might, 1
+    drunk, 1
+    became, 1
+    does, 1
+    summoned, 1
+    should, 1
+    turned, 1
+    reached, 1
+    never, 1
+would
+    be, 3
+    not, 2
+    come, 1
+    most, 1
+    rather, 1
+    return, 1
+    obtain, 1
+    hasten, 1
+come
+    to, 2
+    out, 1
+out
+    of, 4
+    and, 3
+    on, 2
+    before, 1
+    your, 1
+    as, 1
+of
+    life, 13
+    the, 11
+    it, 10
+    his, 4
+    bread, 2
+    them, 2
+    her, 2
+    their, 1
+    one, 1
+    my, 1
+    an, 1
+    all, 1
+    having, 1
+    us, 1
+    this, 1
+    gold, 1
+it
+    and, 5
+    was, 5
+    is, 4
+    he, 2
+    to, 2
+    would, 2
+    with, 1
+    if, 1
+    will, 1
+    before, 1
+    carried, 1
+    for, 1
+    when, 1
+    from, 1
+    as, 1
+    Then, 1
+    The, 1
+    grieves, 1
+    in, 1
+    had, 1
+    proclaimed, 1
+    But, 1
+    off, 1
+with
+    the, 4
+    his, 3
+    him, 3
+    her, 2
+    you, 1
+    gaping, 1
+    such, 1
+    each, 1
+    joy, 1
+    great, 1
+his
+    horse, 3
+    brothers, 3
+    life, 2
+    father, 2
+    loaf, 2
+    sword, 2
+    youngest, 2
+    son, 2
+    heart, 1
+    brother, 1
+    way, 1
+    heel, 1
+    kingdom, 1
+    enemies, 1
+    cup, 1
+    sickness, 1
+    youth, 1
+    bread, 1
+    people, 1
+    bride, 1
+    beloved, 1
+    sorrows, 1
+life
+    and, 4
+    for, 2
+    He, 1
+    if, 1
+    It, 1
+    before, 1
+    was, 1
+    went, 1
+    out, 1
+    but, 1
+    into, 1
+    So, 1
+He
+    had, 2
+    sprang, 1
+    however, 1
+    still, 1
+three
+    sons, 1
+    brothers, 1
+    kingdoms, 1
+    waggons, 1
+    Kings, 1
+sons
+    who, 1
+were
+    much, 1
+    lying, 1
+    so, 1
+    asleep, 1
+    quite, 1
+    sent, 1
+    still, 1
+    to, 1
+much
+    distressed, 1
+    that, 1
+distressed
+    about, 1
+about
+    it, 1
+went
+    to, 3
+    down, 1
+    onwards, 1
+    homewards, 1
+    out, 1
+    on, 1
+    further, 1
+down
+    into, 1
+    and, 1
+into
+    the, 4
+    a, 1
+    favour, 1
+the
+    water, 15
+    prince, 15
+    King, 8
+    dwarf, 7
+    kingdom, 6
+    door, 5
+    right, 5
+    youngest, 4
+    Kings, 4
+    huntsman, 4
+    second, 3
+    wand, 3
+    clock, 3
+    bread, 3
+    sword, 3
+    forest, 3
+    sick, 2
+    road, 2
+    latter, 2
+    iron, 2
+    castle, 2
+    third, 2
+    whole, 2
+    spring, 2
+    loaf, 2
+    three, 2
+    two, 2
+    cup, 2
+    golden, 2
+    palacegarden, 1
+    cause, 1
+    old, 1
+    danger, 1
+    little, 1
+    further, 1
+    closer, 1
+    mountains, 1
+    saddle, 1
+    same, 1
+    other, 1
+    information, 1
+    courtyard, 1
+    lions, 1
+    scarcity, 1
+    hosts, 1
+    sea, 1
+    passage, 1
+    salt, 1
+    true, 1
+    days, 1
+    pain, 1
+    gain, 1
+    beautiful, 1
+    bargain, 1
+    court, 1
+    chase, 1
+    princes, 1
+    side, 1
+    time, 1
+    eldest, 1
+    palace, 1
+    splendid, 1
+    servants, 1
+    left, 1
+    attendants, 1
+    year, 1
+    middle, 1
+    princess, 1
+palacegarden
+    and, 1
+wept
+    There, 1
+they
+    were, 2
+    poured, 2
+    had, 2
+    met, 1
+    will, 1
+    have, 1
+    rode, 1
+    entered, 1
+    went, 1
+    found, 1
+    arrived, 1
+    both, 1
+    exchanged, 1
+    lived, 1
+met
+    the, 2
+    an, 1
+old
+    King, 3
+    man, 2
+man
+    who, 1
+    said, 1
+    and, 1
+inquired
+    as, 1
+as
+    he, 3
+    to, 1
+    if, 1
+    is, 1
+    the, 1
+    in, 1
+    a, 1
+    her, 1
+    long, 1
+    they, 1
+to
+    the, 12
+    be, 8
+    go, 7
+    him, 5
+    his, 3
+    find, 2
+    do, 2
+    seek, 2
+    fetch, 2
+    shoot, 2
+    her, 2
+    ride, 2
+    cure, 1
+    turn, 1
+    dismount, 1
+    himself, 1
+    me, 1
+    ask, 1
+    thee, 1
+    let, 1
+    make, 1
+    it, 1
+    each, 1
+    a, 1
+    hasten, 1
+    rest, 1
+    twelve, 1
+    with, 1
+    an, 1
+    stay, 1
+    wait, 1
+    us, 1
+    destroy, 1
+    poison, 1
+    our, 1
+    show, 1
+    carry, 1
+    boot, 1
+    tread, 1
+    come, 1
+    punish, 1
+    sea, 1
+cause
+    of, 1
+their
+    wedding, 3
+    grief, 1
+    father, 1
+    fingers, 1
+    stead, 1
+    enemies, 1
+    people, 1
+    gratitude, 1
+grief
+    They, 1
+They
+    told, 1
+    went, 1
+    are, 1
+    then, 1
+    waited, 1
+told
+    him, 7
+    them, 1
+    the, 1
+    her, 1
+him
+    and, 11
+    that, 5
+    to, 4
+    the, 4
+    Then, 1
+    No, 1
+    but, 1
+    another, 1
+    go, 1
+    whither, 1
+    an, 1
+    took, 1
+    kissed, 1
+    where, 1
+    however, 1
+    They, 1
+    fast, 1
+    He, 1
+    Dear, 1
+    he, 1
+    with, 1
+    So, 1
+    everything, 1
+father
+    was, 1
+    and, 1
+    is, 1
+    without, 1
+    will, 1
+    indeed, 1
+    invited, 1
+so
+    ill, 1
+    long, 1
+    fast, 1
+    narrow, 1
+    the, 1
+    haughty, 1
+    great, 1
+    sorrowful, 1
+    incessantly, 1
+    much, 1
+ill
+    that, 1
+most
+    certainly, 1
+certainly
+    die, 1
+    found, 1
+die
+    for, 1
+    But, 1
+for
+    that, 2
+    him, 2
+    his, 2
+    nothing, 1
+    my, 1
+    they, 1
+    the, 1
+    themselves, 1
+    it, 1
+nothing
+    to, 2
+    seemed, 1
+seemed
+    to, 1
+cure
+    him, 1
+Then
+    the, 6
+    hasten, 1
+    he, 1
+    they, 1
+    a, 1
+said
+    the, 7
+    I, 5
+    The, 2
+    Dear, 2
+    to, 2
+    Whither, 1
+    Father, 1
+    With, 1
+    Beware, 1
+    that, 1
+    You, 1
+    Say, 1
+    he, 1
+I
+    will, 4
+    am, 2
+    have, 2
+    know, 1
+    would, 1
+    bring, 1
+    shall, 1
+    do, 1
+    did, 1
+    cannot, 1
+    ought, 1
+    give, 1
+    should, 1
+    could, 1
+know
+    of, 1
+    then, 1
+more
+    remedy, 1
+    countries, 1
+remedy
+    and, 1
+is
+    nothing, 2
+    the, 1
+    hard, 1
+    too, 1
+    dead, 1
+    sick, 1
+    to, 1
+    seemly, 1
+    over, 1
+    I, 1
+water
+    of, 13
+    and, 2
+    then, 1
+    in, 1
+if
+    he, 3
+    you, 2
+    in, 1
+    I, 1
+    thou, 1
+drinks
+    of, 1
+will
+    give, 2
+    become, 1
+    manage, 1
+    fall, 1
+    spring, 1
+    be, 1
+    shut, 1
+    never, 1
+    rob, 1
+    go, 1
+    pardon, 1
+    willingly, 1
+become
+    well, 1
+well
+    again, 1
+again
+    but, 1
+    and, 1
+    passed, 1
+    The, 1
+    Soon, 1
+    When, 1
+but
+    he, 2
+    if, 2
+    it, 1
+    at, 1
+    thou, 1
+    into, 1
+    you, 1
+    they, 1
+hard
+    to, 1
+find
+    it, 2
+    The, 1
+The
+    prince, 3
+    old, 3
+    huntsman, 2
+    eldest, 1
+    sick, 1
+    door, 1
+    youngest, 1
+    princess, 1
+eldest
+    said, 1
+    conversed, 1
+    brothers, 1
+    thought, 1
+manage
+    to, 1
+sick
+    King, 3
+    unto, 1
+begged
+    to, 2
+    so, 1
+    until, 1
+be
+    allowed, 2
+    celebrated, 2
+    admitted, 2
+    a, 2
+    best, 1
+    found, 1
+    able, 1
+    quieted, 1
+    imprisoned, 1
+    cured, 1
+    secretly, 1
+    killed, 1
+    taken, 1
+    the, 1
+    with, 1
+allowed
+    to, 2
+go
+    forth, 3
+    away, 2
+    either, 1
+    forwards, 1
+    When, 1
+    home, 1
+    and, 1
+    with, 1
+    to, 1
+forth
+    to, 3
+    in, 1
+    a, 1
+    and, 1
+in
+    the, 4
+    a, 3
+    search, 2
+    such, 2
+    his, 1
+    there, 1
+    prison, 1
+    which, 1
+    rest, 1
+    order, 1
+    their, 1
+    my, 1
+    every, 1
+    front, 1
+search
+    of, 2
+alone
+    could, 1
+    in, 1
+could
+    not, 2
+    save, 1
+    neither, 1
+    now, 1
+save
+    him, 1
+No
+    said, 2
+danger
+    of, 1
+too
+    great, 1
+    met, 1
+great
+    I, 1
+    wealth, 1
+    kingdom, 1
+    Then, 1
+    rejoicing, 1
+rather
+    die, 1
+But
+    the, 3
+    he, 1
+    just, 1
+    after, 1
+    scarcely, 1
+    beware, 1
+    when, 1
+long
+    that, 1
+    for, 1
+    as, 1
+consented
+    The, 1
+prince
+    set, 2
+    gave, 2
+    was, 2
+    said, 2
+    thought, 1
+    very, 1
+    entered, 1
+    that, 1
+    As, 1
+    thanked, 1
+    would, 1
+    begged, 1
+    went, 1
+    then, 1
+    however, 1
+thought
+    he, 3
+    it, 2
+    in, 1
+    to, 1
+    Can, 1
+    of, 1
+heart
+    If, 1
+    to, 1
+    and, 1
+If
+    I, 1
+    my, 1
+bring
+    the, 1
+then
+    the, 2
+    I, 1
+    where, 1
+    their, 1
+    took, 1
+    began, 1
+    they, 1
+    thought, 1
+shall
+    be, 1
+    inherit, 1
+    lose, 1
+    have, 1
+best
+    beloved, 1
+beloved
+    of, 1
+    and, 1
+my
+    father, 2
+    brother, 1
+    two, 1
+    royal, 1
+    son, 1
+    heart, 1
+inherit
+    the, 1
+kingdom
+    and, 3
+    So, 1
+    will, 1
+    After, 1
+    the, 1
+    which, 1
+    to, 1
+So
+    he, 5
+    fare, 1
+    his, 1
+set
+    out, 5
+when
+    he, 8
+    they, 2
+    she, 1
+    a, 1
+    the, 1
+ridden
+    forth, 1
+little
+    distance, 1
+    dwarf, 1
+    So, 1
+    of, 1
+distance
+    a, 1
+dwarf
+    had, 2
+    stood, 1
+    who, 1
+    bewitched, 1
+    and, 1
+    When, 1
+    canst, 1
+    I, 1
+    released, 1
+stood
+    there, 1
+    near, 1
+there
+    in, 1
+    as, 1
+    which, 1
+    was, 1
+    because, 1
+    I, 1
+road
+    who, 1
+    became, 1
+    that, 1
+    made, 1
+    he, 1
+    and, 1
+    at, 1
+called
+    to, 1
+Whither
+    away, 1
+away
+    again, 2
+    so, 1
+    the, 1
+    After, 1
+    But, 1
+    a, 1
+    with, 1
+fast
+    Silly, 1
+    asleep, 1
+Silly
+    shrimp, 1
+shrimp
+    said, 2
+very
+    haughtily, 1
+    weary, 1
+    little, 1
+haughtily
+    it, 1
+    like, 1
+do
+    not, 2
+    with, 1
+    it, 1
+    that, 1
+you
+    and, 3
+    shall, 2
+    have, 1
+    should, 1
+    whilst, 1
+    were, 1
+    do, 1
+    say, 1
+    keep, 1
+    The, 1
+    Alas, 1
+    dead, 1
+    my, 1
+    Then, 1
+rode
+    on, 6
+    the, 1
+    into, 1
+    by, 1
+    forth, 1
+    onwards, 1
+    thither, 1
+on
+    the, 4
+    But, 2
+    without, 1
+    his, 1
+    together, 1
+    board, 1
+    it, 1
+grown
+    angry, 1
+angry
+    and, 1
+    with, 1
+wished
+    to, 4
+    an, 1
+evil
+    wish, 1
+    the, 1
+wish
+    Soon, 1
+Soon
+    after, 2
+after
+    this, 3
+    that, 1
+this
+    the, 3
+    he, 1
+    they, 1
+    to, 1
+entered
+    a, 3
+    the, 1
+    two, 1
+ravine
+    and, 2
+further
+    he, 1
+    it, 1
+    into, 1
+closer
+    the, 1
+mountains
+    drew, 1
+    said, 1
+drew
+    together, 1
+    off, 1
+    some, 1
+together
+    and, 3
+at
+    last, 5
+    the, 1
+    having, 1
+    sea, 1
+    hand, 1
+    all, 1
+last
+    the, 3
+    he, 1
+    entered, 1
+became
+    so, 1
+    still, 1
+    strong, 1
+narrow
+    that, 1
+not
+    the, 3
+    advance, 1
+    Then, 1
+    allow, 1
+    haughtily, 1
+    be, 1
+    give, 1
+    go, 1
+    tell, 1
+    returned, 1
+    we, 1
+    disclose, 1
+    trust, 1
+    have, 1
+    find, 1
+    to, 1
+advance
+    a, 1
+step
+    further, 1
+impossible
+    either, 1
+either
+    to, 1
+    but, 1
+turn
+    his, 1
+horse
+    or, 1
+    had, 1
+    rode, 1
+or
+    to, 1
+dismount
+    from, 1
+from
+    the, 2
+    a, 1
+    you, 1
+saddle
+    and, 1
+shut
+    in, 1
+    again, 1
+prison
+    The, 1
+waited
+    long, 1
+    until, 1
+came
+    to, 5
+    not, 1
+    he, 1
+    and, 1
+    riding, 1
+    back, 1
+second
+    son, 2
+    prince, 1
+son
+    said, 1
+    also, 1
+    and, 1
+    that, 1
+    which, 1
+    have, 1
+    might, 1
+    likewise, 1
+Father
+    let, 1
+let
+    me, 2
+    him, 1
+me
+    go, 1
+    At, 1
+    where, 1
+    to, 1
+    live, 1
+    your, 1
+    that, 1
+seek
+    the, 1
+    revenge, 1
+himself
+    If, 1
+    out, 1
+brother
+    is, 1
+    had, 1
+dead
+    then, 1
+    the, 1
+fall
+    to, 1
+At
+    first, 1
+first
+    the, 1
+allow
+    him, 1
+yielded
+    so, 1
+same
+    road, 1
+taken
+    and, 1
+    into, 1
+stopped
+    him, 1
+    gave, 1
+ask
+    whither, 1
+whither
+    he, 2
+going
+    in, 2
+such
+    haste, 2
+    violence, 1
+haste
+    Little, 1
+    he, 1
+Little
+    shrimp, 1
+thee
+    and, 1
+    the, 1
+    how, 1
+    an, 1
+without
+    giving, 1
+    his, 1
+giving
+    him, 1
+another
+    look, 1
+look
+    But, 1
+bewitched
+    him, 1
+like
+    the, 1
+    thy, 1
+other
+    rode, 1
+    to, 1
+neither
+    go, 1
+forwards
+    nor, 1
+nor
+    backwards, 1
+backwards
+    So, 1
+fare
+    haughty, 1
+haughty
+    people, 1
+    Then, 1
+people
+    As, 1
+    with, 1
+    Would, 1
+    that, 1
+As
+    the, 2
+    thou, 1
+also
+    remained, 1
+    wherewith, 1
+remained
+    away, 1
+youngest
+    son, 2
+    begged, 1
+    has, 1
+    took, 1
+    of, 1
+    mocked, 1
+fetch
+    the, 2
+    some, 1
+obliged
+    to, 1
+When
+    he, 3
+    the, 1
+    his, 1
+    at, 1
+    it, 1
+latter
+    asked, 1
+    saw, 1
+asked
+    him, 1
+gave
+    him, 3
+    his, 1
+explanation
+    and, 1
+am
+    seeking, 1
+    to, 1
+seeking
+    the, 1
+unto
+    death, 1
+death
+    Dost, 1
+Dost
+    thou, 1
+thou
+    hast, 2
+    wilt, 2
+    know, 1
+    mayst, 1
+    throwest, 1
+    canst, 1
+    not, 1
+where
+    war, 2
+    that, 1
+    the, 1
+    there, 1
+    my, 1
+found
+    the, 3
+    No, 1
+    him, 1
+hast
+    borne, 1
+    won, 1
+borne
+    thyself, 1
+thyself
+    as, 1
+seemly
+    and, 1
+thy
+    false, 1
+    way, 1
+false
+    brothers, 1
+brothers
+    came, 2
+    I, 1
+    and, 1
+    are, 1
+    rode, 1
+    had, 1
+give
+    thee, 2
+    him, 1
+    you, 1
+    me, 1
+    himself, 1
+information
+    and, 1
+tell
+    thee, 1
+    me, 1
+    you, 1
+how
+    it, 2
+    thou, 1
+    things, 1
+    his, 1
+    he, 1
+mayst
+    obtain, 1
+obtain
+    the, 1
+    a, 1
+It
+    springs, 1
+springs
+    from, 1
+fountain
+    in, 1
+courtyard
+    of, 1
+enchanted
+    castle, 1
+    princes, 1
+castle
+    and, 2
+    but, 1
+wilt
+    not, 1
+    be, 1
+able
+    to, 2
+make
+    thy, 1
+way
+    to, 1
+    When, 1
+iron
+    door, 2
+    wand, 1
+wand
+    and, 3
+    on, 1
+two
+    eldest, 2
+    small, 1
+    lions, 1
+    brothers, 1
+    mountains, 1
+    more, 1
+small
+    loaves, 1
+loaves
+    of, 1
+bread
+    and, 2
+    Strike, 1
+    he, 1
+    were, 1
+    will, 1
+Strike
+    thrice, 1
+thrice
+    with, 1
+door
+    the, 3
+    of, 1
+    will, 1
+    sprang, 1
+    fell, 1
+    it, 1
+spring
+    open, 1
+    of, 1
+    drew, 1
+open
+    inside, 1
+    at, 1
+    We, 1
+inside
+    lie, 1
+lie
+    two, 1
+lions
+    with, 2
+gaping
+    jaws, 1
+jaws
+    but, 1
+throwest
+    a, 1
+loaf
+    and, 2
+    to, 1
+    of, 1
+    he, 1
+    wherewith, 1
+each
+    of, 1
+    time, 1
+    other, 1
+them
+    but, 2
+    they, 1
+    to, 1
+    for, 1
+    how, 1
+quieted
+    Then, 1
+hasten
+    to, 2
+    and, 1
+some
+    of, 2
+    enchanted, 1
+    water, 1
+before
+    the, 2
+    I, 1
+    And, 1
+clock
+    struck, 2
+    strikes, 1
+strikes
+    twelve, 1
+twelve
+    else, 1
+    Then, 1
+    He, 1
+    and, 1
+else
+    the, 1
+imprisoned
+    The, 1
+    between, 1
+thanked
+    him, 1
+took
+    it, 2
+    the, 1
+    back, 1
+    his, 1
+arrived
+    everything, 1
+    home, 1
+    in, 1
+everything
+    was, 1
+    how, 1
+sprang
+    open, 1
+    up, 1
+third
+    stroke, 1
+    son, 1
+stroke
+    of, 1
+appeased
+    the, 1
+large
+    and, 1
+splendid
+    hall, 1
+    golden, 1
+hall
+    wherein, 1
+wherein
+    sat, 1
+sat
+    some, 1
+princes
+    whose, 1
+    sword, 1
+whose
+    rings, 1
+rings
+    he, 1
+off
+    their, 1
+    and, 1
+fingers
+    A, 1
+A
+    sword, 1
+sword
+    and, 4
+    thou, 1
+    also, 1
+    to, 1
+lying
+    there, 1
+which
+    was, 2
+    he, 1
+    stood, 1
+    belongs, 1
+    were, 1
+carried
+    away, 2
+After
+    that, 2
+    this, 1
+    a, 1
+chamber
+    in, 1
+beautiful
+    princess, 2
+    maiden, 1
+    newlymade, 1
+maiden
+    who, 1
+rejoiced
+    when, 1
+    and, 1
+she
+    told, 2
+    saw, 1
+saw
+    the, 2
+    him, 1
+kissed
+    him, 1
+delivered
+    her, 1
+    three, 1
+her
+    deliverer, 2
+    so, 2
+    and, 1
+    kingdom, 1
+    palace, 1
+    people, 1
+    would, 1
+    for, 1
+    forget, 1
+should
+    have, 3
+    be, 2
+    not, 1
+have
+    been, 3
+    the, 1
+    not, 1
+    condemned, 1
+    bad, 1
+    had, 1
+    kept, 1
+    it, 1
+    suffered, 1
+whole
+    of, 2
+    armies, 1
+return
+    in, 1
+    and, 1
+year
+    their, 1
+    for, 1
+    is, 1
+    had, 1
+wedding
+    was, 2
+    should, 1
+celebrated
+    likewise, 1
+    and, 1
+    with, 1
+likewise
+    she, 1
+    wished, 1
+draw
+    some, 1
+struck
+    twelve, 2
+onwards
+    and, 1
+    up, 1
+room
+    where, 1
+newlymade
+    bed, 1
+bed
+    and, 1
+weary
+    he, 1
+felt
+    inclined, 1
+    his, 1
+inclined
+    to, 1
+rest
+    a, 1
+    and, 1
+lay
+    down, 1
+fell
+    asleep, 1
+    to, 1
+    from, 1
+asleep
+    When, 1
+    then, 1
+    at, 1
+awoke
+    it, 1
+striking
+    a, 1
+quarter
+    to, 1
+up
+    in, 1
+    to, 1
+    the, 1
+fright
+    ran, 1
+ran
+    to, 1
+cup
+    which, 1
+    and, 1
+    they, 1
+    to, 1
+near
+    and, 1
+hastened
+    away, 1
+just
+    as, 1
+passing
+    through, 1
+through
+    the, 1
+violence
+    that, 1
+piece
+    of, 2
+heel
+    He, 1
+however
+    rejoicing, 1
+    and, 1
+    went, 1
+    had, 1
+rejoicing
+    at, 1
+    When, 1
+having
+    obtained, 1
+    intended, 1
+obtained
+    the, 1
+homewards
+    and, 1
+passed
+    the, 1
+With
+    these, 1
+these
+    thou, 1
+won
+    great, 1
+wealth
+    with, 1
+canst
+    slay, 1
+    thou, 1
+slay
+    whole, 1
+armies
+    and, 1
+never
+    come, 1
+    noticed, 1
+    came, 1
+end
+    But, 1
+home
+    the, 2
+    to, 1
+Dear
+    huntsman, 2
+    dwarf, 1
+are
+    They, 1
+    imprisoned, 1
+did
+    in, 1
+returned
+    They, 1
+    home, 1
+between
+    two, 1
+condemned
+    them, 1
+stay
+    there, 1
+because
+    they, 1
+until
+    the, 1
+    they, 1
+released
+    them, 1
+warned
+    him, 1
+Beware
+    of, 1
+bad
+    hearts, 1
+hearts
+    When, 1
+things
+    had, 1
+gone
+    with, 1
+brought
+    a, 1
+    him, 1
+cupful
+    away, 1
+rescued
+    a, 1
+princess
+    who, 1
+    But, 1
+    however, 1
+    received, 1
+willing
+    to, 1
+wait
+    a, 1
+chanced
+    upon, 1
+upon
+    a, 1
+    his, 1
+land
+    where, 1
+war
+    and, 2
+famine
+    reigned, 2
+reigned
+    and, 2
+already
+    thought, 1
+must
+    perish, 1
+perish
+    for, 1
+scarcity
+    was, 1
+wherewith
+    he, 2
+fed
+    and, 1
+satisfied
+    the, 1
+slew
+    the, 1
+hosts
+    of, 1
+enemies
+    and, 1
+    with, 1
+now
+    live, 1
+    delivered, 1
+    close, 1
+live
+    in, 1
+    there, 1
+peace
+    The, 1
+back
+    his, 1
+    as, 1
+countries
+    where, 1
+time
+    the, 1
+    three, 1
+    was, 1
+Kings
+    and, 1
+    huntsman, 1
+    who, 1
+    heart, 1
+    daughter, 1
+kingdoms
+    and, 1
+board
+    a, 1
+ship
+    and, 1
+sailed
+    over, 1
+over
+    the, 1
+    this, 1
+    one, 1
+    that, 1
+    she, 1
+sea
+    and, 2
+    During, 1
+During
+    the, 1
+passage
+    the, 1
+conversed
+    apart, 1
+apart
+    and, 1
+has
+    found, 1
+    ordered, 1
+we
+    for, 1
+    the, 1
+our
+    father, 2
+    fortune, 1
+belongs
+    to, 1
+us
+    and, 1
+    of, 1
+    will, 1
+rob
+    us, 1
+all
+    our, 1
+    So, 1
+fortune
+    They, 1
+began
+    to, 1
+revenge
+    and, 1
+plotted
+    with, 1
+    against, 1
+destroy
+    him, 1
+poured
+    the, 1
+    salt, 1
+themselves
+    but, 1
+salt
+    seawater, 2
+seawater
+    Now, 1
+    than, 1
+Now
+    therefore, 1
+therefore
+    when, 1
+order
+    that, 1
+might
+    drink, 1
+    return, 1
+drink
+    out, 1
+cured
+    But, 1
+scarcely
+    had, 1
+    tasted, 1
+drunk
+    a, 1
+than
+    he, 1
+    before, 1
+still
+    worse, 1
+    alive, 1
+    lives, 1
+worse
+    than, 1
+And
+    as, 1
+    once, 1
+lamenting
+    over, 1
+accused
+    the, 1
+intended
+    to, 1
+poison
+    him, 1
+true
+    water, 1
+handed
+    it, 1
+tasted
+    it, 1
+sickness
+    departing, 1
+departing
+    and, 1
+strong
+    and, 1
+healthy
+    as, 1
+days
+    of, 1
+youth
+    After, 1
+both
+    went, 1
+mocked
+    him, 1
+You
+    certainly, 1
+pain
+    and, 1
+gain
+    you, 1
+been
+    sharper, 1
+    able, 1
+    innocent, 1
+sharper
+    and, 1
+kept
+    your, 1
+    silence, 1
+your
+    eyes, 1
+    life, 1
+    common, 1
+    command, 1
+eyes
+    open, 1
+We
+    took, 1
+whilst
+    you, 1
+beware
+    that, 1
+disclose
+    aught, 1
+aught
+    of, 1
+indeed
+    he, 1
+    I, 1
+does
+    not, 1
+trust
+    you, 1
+say
+    a, 1
+single
+    word, 1
+word
+    you, 1
+lose
+    your, 1
+bargain
+    but, 1
+keep
+    silent, 1
+silent
+    you, 1
+gift
+    The, 1
+against
+    his, 1
+summoned
+    the, 1
+court
+    together, 1
+sentence
+    pronounced, 1
+pronounced
+    upon, 1
+secretly
+    shot, 1
+shot
+    And, 1
+riding
+    forth, 1
+    straight, 1
+chase
+    suspecting, 1
+suspecting
+    no, 1
+huntsman
+    said, 2
+    I, 2
+    had, 1
+    looked, 1
+    what, 1
+    let, 1
+    returned, 1
+quite
+    alone, 1
+    bright, 1
+forest
+    the, 1
+    After, 1
+    to, 1
+looked
+    so, 1
+sorrowful
+    that, 1
+what
+    ails, 1
+    it, 1
+ails
+    you, 1
+cannot
+    tell, 1
+yet
+    I, 1
+ought
+    Then, 1
+Say
+    openly, 1
+openly
+    what, 1
+pardon
+    you, 1
+Alas
+    said, 1
+shoot
+    you, 2
+ordered
+    me, 1
+shocked
+    and, 1
+royal
+    garments, 1
+garments
+    give, 1
+common
+    ones, 1
+ones
+    in, 1
+stead
+    The, 1
+willingly
+    do, 1
+exchanged
+    clothes, 1
+clothes
+    and, 1
+waggons
+    of, 1
+gold
+    and, 1
+precious
+    stones, 1
+stones
+    came, 1
+sent
+    by, 1
+by
+    the, 2
+slain
+    their, 1
+maintained
+    their, 1
+show
+    their, 1
+gratitude
+    for, 1
+Can
+    my, 1
+innocent
+    and, 1
+Would
+    that, 1
+alive
+    how, 1
+grieves
+    me, 1
+suffered
+    him, 1
+killed
+    He, 1
+lives
+    said, 1
+carry
+    out, 1
+command
+    and, 1
+happened
+    Then, 1
+stone
+    fell, 1
+proclaimed
+    in, 1
+every
+    country, 1
+country
+    that, 1
+favour
+    again, 1
+made
+    up, 1
+palace
+    which, 1
+    and, 1
+bright
+    and, 1
+golden
+    road, 3
+    and, 1
+whosoever
+    came, 1
+straight
+    along, 1
+along
+    it, 1
+right
+    one, 2
+    wooer, 1
+    side, 1
+    man, 1
+wooer
+    and, 1
+admitted
+    and, 1
+    As, 1
+whoever
+    rode, 1
+side
+    of, 3
+close
+    at, 1
+hand
+    the, 1
+daughter
+    and, 1
+deliverer
+    and, 2
+thus
+    win, 1
+win
+    her, 1
+bride
+    and, 1
+boot
+    Therefore, 1
+Therefore
+    he, 1
+front
+    of, 1
+sin
+    and, 2
+shame
+    if, 1
+    to, 1
+ride
+    over, 1
+    out, 1
+turned
+    aside, 2
+aside
+    and, 2
+servants
+    told, 1
+put
+    one, 1
+    to, 1
+foot
+    on, 1
+tread
+    a, 1
+left
+    side, 1
+reached
+    the, 1
+attendants
+    told, 1
+entirely
+    expired, 1
+expired
+    the, 1
+forget
+    his, 1
+sorrows
+    So, 1
+incessantly
+    and, 1
+noticed
+    the, 1
+middle
+    of, 1
+opened
+    and, 1
+received
+    him, 1
+joy
+    and, 1
+lord
+    of, 1
+invited
+    him, 1
+forgiven
+    him, 1
+thither
+    and, 1
+betrayed
+    him, 1
+nevertheless
+    kept, 1
+silence
+    The, 1
+punish
+    them, 1
