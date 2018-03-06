@@ -9,14 +9,15 @@ class Word(object):
 		self.frequency = None
 
 
-if __name__ == '__main__':
-	# dictionary of Grimm fairy tales:
-	# keys: titles, values: string of fairy tale
-	fairy_dict = parser()
-	fairy_tale = fairy_dict['97 The Water of Life']
-
+def separate_words(text):
+	"""
+	Function that receives text as raw and removes special characters
+	etc from it.
+	:param text: str 
+	:return: list of strings [str, str, str ...]
+	"""
 	# splitting fairy tale into words
-	fairy_list = fairy_tale.split(" ")
+	fairy_list = text.split(" ")
 
 	# removing ",", ";", ".", "\n" from words
 	new_fairy_list = []
@@ -28,12 +29,44 @@ if __name__ == '__main__':
 
 	# removing empty strings
 	new_fairy_list = [item for item in new_fairy_list if item]
-	# pp(new_fairy_list)
+	return new_fairy_list
+
+
+def print_words(word_list):
+	"""
+	Printing words and their next words, and frequencies.
+	:param word_list: list of Word object instances - [Word(), Word(), ...]
+	:return: None
+	"""
+	for word in word_list:
+		print(word.word)
+		for next_word in word.next_word_list:
+			print("    ", next_word.word, next_word.frequency)
+
+
+def save_words_to_txt(word_list, filename="word_list_output.txt"):
+	with open(filename, "w") as file:
+		for word in word_list:
+			file.write("\n{}".format(word.word))
+			for next_word in word.next_word_list:
+				file.write("\n    {}, {}".format(next_word.word, next_word.frequency))
+
+
+if __name__ == '__main__':
+	# dictionary of Grimm fairy tales:
+	# keys: titles, values: string of fairy tale
+	fairy_dict = parser()
+	pp([item for item in fairy_dict.keys()])
+	fairy_tale = fairy_dict['97 The Water of Life']
+	wise_folks = fairy_dict['104 Wise Folks (Die klugen Leute)']
+	bearskin = fairy_dict['101 Bearskin (Der Bärenhäuter)']
+
+	fairy_list = separate_words(fairy_tale)
 
 	word_list = []
-	for idx, word in enumerate(new_fairy_list):  # for each word in list
+	for idx, word in enumerate(fairy_list):  # for each word in list
 		try:  # try to get
-			next_word = new_fairy_list[idx+1]  # next word
+			next_word = fairy_list[idx+1]  # next word
 		except IndexError:  # if you are out of words
 			continue  # continue with loop (finish)
 
@@ -54,7 +87,4 @@ if __name__ == '__main__':
 	for word in word_list:
 		word.next_word_list.sort(key=lambda x: x.frequency, reverse=True)
 
-	for word in word_list:
-		print(word.word)
-		for next_word in word.next_word_list:
-			print("    ", next_word.word, next_word.frequency)
+	save_words_to_txt(word_list)
