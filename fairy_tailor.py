@@ -1,6 +1,6 @@
 from pprint import pprint as pp
 from fairy_parser import parser
-import random
+import random, pickle, os
 
 
 class Word(object):
@@ -33,7 +33,11 @@ def separate_words(text):
 	# removing ",", ";", ".", "\n" from words
 	new_fairy_list = []
 	for word in fairy_list:
-		if "\n" in word:
+		if "." in word:
+			new_fairy_list.append("".join(letter for letter in word if letter.isalnum()))
+			new_fairy_list.append(".")
+
+		elif "\n" in word:
 			new_fairy_list.extend(["".join(letter for letter in item if letter.isalnum()) for item in word.split("\n")])
 		else:
 			new_fairy_list.append("".join(letter for letter in word if letter.isalnum()))
@@ -99,7 +103,7 @@ def generate_text(word_list):
 	text = ""
 	random_word = random.choice(word_list)  # choose one random word (for start)
 	text = text.join(random_word.word + " ")  # append this random word to text
-	while len(text) < 200:  # while text has smaller length than 100
+	while len(text) < 120:  # while text has smaller length than 100
 		random_word = select_next_word(random_word)
 		append_word = random_word.word + " "
 		text = text + append_word
@@ -158,7 +162,7 @@ def create_word_list(separate_words):
 	return word_list
 
 
-def select_fairy_tales():
+def select_fairy_tales(select_all=False):
 	"""
 	Function for selecting fairy tales from dictionary
 	returned by parser() function.
@@ -166,23 +170,49 @@ def select_fairy_tales():
 	"""
 	fairy_dict = parser()
 	fairy_list = []
-	fairy_tales = ['97 The Water of Life', '104 Wise Folks (Die klugen Leute)',
-				   '101 Bearskin (Der Bärenhäuter)']
+	# for key in fairy_dict.keys():
+	# 	print(key)
+	fairy_tales = []
+	if select_all:
+		for key in fairy_dict.keys():
+			fairy_tales.append(key)
+	else:
+		fairy_tales = ['97 The Water of Life', '104 Wise Folks (Die klugen Leute)',
+					   '101 Bearskin (Der Bärenhäuter)', '12 Rapunzel', '21 Cinderella',
+					   '22 The Riddle', '23 The Mouse, the Bird, and the Sausage',
+					   '24 Mother Holle', '25 The Seven Ravens', '126 Ferdinand the Faithful',
+					   '128 The Lazy Spinner', '132 The Fox and the Horse', '137 The Three Black Princesses',
+					   '184 The Nail', '185 The Poor Boy in the Grave', '186 The True Sweethearts',
+					   '187 The Hare and the Hedgehog', '189 The Peasant and the Devil',
+					   '190 The Crumbs on the Table', '191 The Sea-Hare', '192 The Master-Thief',
+					   '200 The Golden Key', '199 The Boots of Buffalo-Leather', '198 Maid Maleen',
+					   '197 The Crystal Ball', '196 Old Rinkrank', '195 The Grave-Mound', '194 The Ear of Corn',
+					   '193 The Drummer', '183 The Giant and the Tailor', "182 The Little Folks' Presents",
+					   "181 The Nix of the Mill-Pond", "180 Eve's Various Children", "179 The Goose-Girl at the Well",
+					   "178 Master Pfriem (Master Cobbler's Awl)", "177 Death's Messengers", "176 The Duration of Life",
+					   "175 The Moon"]
 	for tale in fairy_tales:
 		fairy_tale = fairy_dict[tale]
 		fairy_list.extend(separate_words(fairy_tale))
 	return fairy_list
 
 
-# TODO : roullette wheel
-# TODO : combining multiple fairy tales
 if __name__ == '__main__':
 
-	fairy_list = select_fairy_tales()
-	word_list = create_word_list(fairy_list)
+	fairy_list = select_fairy_tales(select_all=True)
 
-	save_words_to_txt(word_list)
+	if os.path.exists(os.path.join(os.getcwd(), "word_list.pkl")):
+		with open('word_list.pkl', 'rb') as input:
+			word_list = pickle.load(input)
+
+	else:
+		with open('word_list.pkl', 'wb') as output:
+			word_list = create_word_list(fairy_list)
+			pickle.dump(word_list, output, pickle.HIGHEST_PROTOCOL)
+		save_words_to_txt(word_list)
+
+	connect_next_words(word_list)
 	# print_words(word_list)
 	# print(generate_text(word_list))
-	connect_next_words(word_list)
+
 	generate_text(word_list)

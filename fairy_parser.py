@@ -1,5 +1,6 @@
 import os
 
+
 def parser():
 	txt_file = "grimm.txt"
 	txt_dict = dict()
