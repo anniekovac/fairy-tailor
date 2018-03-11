@@ -64,7 +64,9 @@ def generate_text(word_list):
 	text = text.join(random_word.word + " ")  # append this random word to text
 	while len(text) < 100:  # while text has smaller length than 100
 		random_word = random_word.next_word_list[0]  # another word is always first from the next_word_list
-		text.join(random_word.word + " ")
+		#print(random_word.word)
+		append_word = random_word.word + " "
+		text = text + append_word
 		print(text)
 
 	return text
