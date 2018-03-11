@@ -1,5 +1,6 @@
 from pprint import pprint as pp
 from fairy_parser import parser
+import random
 
 
 class Word(object):
@@ -52,11 +53,45 @@ def save_words_to_txt(word_list, filename="word_list_output.txt"):
 				file.write("\n    {}, {}".format(next_word.word, next_word.frequency))
 
 
+def generate_text(word_list):
+	"""
+	Function for generating text from word_list.
+	:param word_list: list of Word object instances - [Word(), Word(), ...]
+	:return: 
+	"""
+	text = ""
+	random_word = random.choice(word_list)  # choose one random word (for start)
+	text = text.join(random_word.word + " ")  # append this random word to text
+	while len(text) < 100:  # while text has smaller length than 100
+		random_word = random_word.next_word_list[0]  # another word is always first from the next_word_list
+		text.join(random_word.word + " ")
+		print(text)
+
+	return text
+
+
+def connect_next_words(word_list):
+	"""
+	Connecting word from next_lists to their next_word lists.
+	:param word_list:  list of Word object instances - [Word(), Word(), ...]
+	:return: dict
+	"""
+	next_words_dict = dict()
+	for word in word_list:
+		next_words_dict[word.word] = word.next_word_list
+	for word in word_list:
+		for next_word in word.next_word_list:
+			try:
+				next_word.next_word_list = next_words_dict[next_word.word]
+			except KeyError:
+				pass
+	# return next_words_dict
+
+
 if __name__ == '__main__':
 	# dictionary of Grimm fairy tales:
 	# keys: titles, values: string of fairy tale
 	fairy_dict = parser()
-	pp([item for item in fairy_dict.keys()])
 	fairy_tale = fairy_dict['97 The Water of Life']
 	wise_folks = fairy_dict['104 Wise Folks (Die klugen Leute)']
 	bearskin = fairy_dict['101 Bearskin (Der Bärenhäuter)']
@@ -88,3 +123,7 @@ if __name__ == '__main__':
 		word.next_word_list.sort(key=lambda x: x.frequency, reverse=True)
 
 	save_words_to_txt(word_list)
+	# print_words(word_list)
+	# print(generate_text(word_list))
+	connect_next_words(word_list)
+	generate_text(word_list)
