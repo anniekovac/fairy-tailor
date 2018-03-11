@@ -79,6 +79,15 @@ def select_next_word(word, select_first=False):
 	"""
 	if select_first:
 		return word.next_word_list[0]
+	else:
+		choices = {word: word.frequency for word in word.next_word_list}
+		max = sum(choices.values())
+		pick = random.uniform(0, max)
+		current = 0
+		for key, value in choices.items():
+			current += value
+			if current > pick:
+				return key
 
 
 def generate_text(word_list):
@@ -90,8 +99,8 @@ def generate_text(word_list):
 	text = ""
 	random_word = random.choice(word_list)  # choose one random word (for start)
 	text = text.join(random_word.word + " ")  # append this random word to text
-	while len(text) < 100:  # while text has smaller length than 100
-		random_word = select_next_word(random_word, select_first=True)
+	while len(text) < 200:  # while text has smaller length than 100
+		random_word = select_next_word(random_word)
 		append_word = random_word.word + " "
 		text = text + append_word
 		print(text)
@@ -149,17 +158,27 @@ def create_word_list(separate_words):
 	return word_list
 
 
+def select_fairy_tales():
+	"""
+	Function for selecting fairy tales from dictionary
+	returned by parser() function.
+	:return: 
+	"""
+	fairy_dict = parser()
+	fairy_list = []
+	fairy_tales = ['97 The Water of Life', '104 Wise Folks (Die klugen Leute)',
+				   '101 Bearskin (Der Bärenhäuter)']
+	for tale in fairy_tales:
+		fairy_tale = fairy_dict[tale]
+		fairy_list.extend(separate_words(fairy_tale))
+	return fairy_list
+
+
 # TODO : roullette wheel
 # TODO : combining multiple fairy tales
 if __name__ == '__main__':
-	# dictionary of Grimm fairy tales:
-	# keys: titles, values: string of fairy tale
-	fairy_dict = parser()
-	fairy_tale = fairy_dict['97 The Water of Life']
-	wise_folks = fairy_dict['104 Wise Folks (Die klugen Leute)']
-	bearskin = fairy_dict['101 Bearskin (Der Bärenhäuter)']
 
-	fairy_list = separate_words(fairy_tale)
+	fairy_list = select_fairy_tales()
 	word_list = create_word_list(fairy_list)
 
 	save_words_to_txt(word_list)
