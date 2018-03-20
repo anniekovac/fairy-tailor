@@ -196,7 +196,9 @@ def select_fairy_tales(select_all=False):
 		fairy_list.extend(separate_words(fairy_tale))
 	return fairy_list
 
-
+# TODO : create modular parsing - parse all the files!
+# TODO : add comma as a word
+# TODO : add possibility of user input - how many words do you want to generate
 if __name__ == '__main__':
 
 	fairy_list = select_fairy_tales(select_all=True)
