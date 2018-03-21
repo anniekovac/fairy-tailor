@@ -72,26 +72,23 @@ def save_words_to_txt(word_list, filename="word_list_output.txt"):
 				file.write("\n    {}, {}".format(next_word.word, next_word.frequency))
 
 
-def select_next_word(word, select_first=False):
+def select_next_word(word):
 	"""
 	Function created for selecting next word.
-	For now, only selecting first possible word (with highest
-	frequency number) is implemented.
+	Implemented roullette wheel selection - 
+	word with the highest frequency is more likely to
+	be selected.
 	:param word: Word() instance
-	:param select_first: boolean (True if you want to select first possible word)
 	:return: Word() instance
 	"""
-	if select_first:
-		return word.next_word_list[0]
-	else:
-		choices = {word: word.frequency for word in word.next_word_list}
-		max = sum(choices.values())
-		pick = random.uniform(0, max)
-		current = 0
-		for key, value in choices.items():
-			current += value
-			if current > pick:
-				return key
+	choices = {word: word.frequency for word in word.next_word_list}
+	max = sum(choices.values())
+	pick = random.uniform(0, max)
+	current = 0
+	for key, value in choices.items():
+		current += value
+		if current > pick:
+			return key
 
 
 def generate_text(word_list):
